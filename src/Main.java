@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Digite o nome do produto: ");
         produto.nome = scanner.nextLine();
 
-        System.out.println("Digite o nome do preço: ");
+        System.out.println("Digite o preço: ");
         produto.preco = scanner.nextDouble();
 
         System.out.println("Digite a quantidade inicial do produto: ");
